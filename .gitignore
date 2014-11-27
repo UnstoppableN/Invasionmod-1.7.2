@@ -1,43 +1,21 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+/gradle
+/eclipse
+/build
+/.settings
+/.gradle
+/.git
 
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must end with two \r
-Icon
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+.classpath
+.project
+.gitattributes
+README.txt
+MinecraftForge-License.txt
+MinecraftForge-Credits.txt
+LICENSE-fml.txt
+CREDITS-fml.txt
+gradlew.bat
+gradlew
+forge-1.7.2-10.12.2.1121-changelog.txt
+CREDITS-fml.txt
+build.gradle
+/bin/
